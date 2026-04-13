@@ -1,0 +1,41 @@
+Calculation of the distribution of Yeh molecular graphs by the number of pairs of overlapping vertices
+Graph order = 28
+Copied from the VS Code terminal and saved to file:
+�ResultDistribYehGraphsOverlapN28.txt�
+
+Obtained using functions:
+
+println("***** �n = 28 �*********") � �
+lstBcd = collect(gen_codes_yeh_graphs(28))
+distr_vector, sum_distr, prc_nia_nul, prc_nia_ss = 
+distribution_graphs_overlap(lstBcd,1,500000)
+output_distr_all_graphs_overlap(distr_vector)
+end
+
+******************************************************
+                          Calculation results:
+******************************************************
+*****  n = 28  *********
+ i =   1  partial distribution vector 
+[422040, 10001, 36807, 12780, 9654, 4943, 2136, 889, 463, 178, 66, 26, 11, 2, 2, 1, 1, 0, 0, 0, 0, 0, 0]
+ sumNIA    500000    n/N 0%    84.408   n_s/N %   15.591999999999999
+ i =   2  partial distribution vector
+[420753, 11476, 33505, 14497, 9896, 5640, 2296, 1027, 524, 230, 86, 39, 14, 9, 2, 3, 2, 0, 1, 0, 0, 0, 0]
+ sumNIA    500000    n/N 0%    84.1506   n_s/N %   15.849400000000003
+ i =   3  partial distribution vector
+[418960, 14546, 30816, 14965, 10260, 5780, 2629, 1019, 568, 247, 124, 42, 16, 9, 9, 7, 1, 0, 1, 0, 1, 0, 0]
+ sumNIA    500000    n/N 0%    83.792   n_s/N %   16.208
+ i =   4  partial distribution vector
+[424247, 11628, 26131, 17666, 10783, 5531, 2027, 1119, 501, 209, 86, 39, 17, 2, 7, 5, 1, 0, 1, 0, 0, 0, 0]
+ sumNIA    500000    n/N 0%    84.8494   n_s/N %   15.150599999999997
+ i =   5  partial distribution vector
+[292224, 5622, 20153, 13399, 7032, 3643, 1848, 864, 344, 171, 99, 38, 10, 6, 4, 1, 3, 0, 0, 0, 1, 0, 0]
+ sumNIA    345462    n/N 0%    84.5893325459819   n_s/N %   15.410667454018096
+ Order of molecular graphs:  28
+Total: 2345462, No overlaps: 1978224, With overlaps: 367238
+Zero-overlap %: 84.34261565525257, Overlap %: 15.657384344747433
+Distribution by overlap pairs:
+[1978224, 53273, 147412, 73307, 47625, 25537, 10936, 4918, 2400, 1035, 461, 184, 68, 28, 24, 17, 8, 0, 3, 0, 2, 0, 0]    
+
+Copied from the VS Code terminal and saved to file:
+�ResultDistribYehGraphsOverlapN28.txt�
