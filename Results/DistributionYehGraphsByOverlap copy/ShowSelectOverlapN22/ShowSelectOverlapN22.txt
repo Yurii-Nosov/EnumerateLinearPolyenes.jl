@@ -1,0 +1,33 @@
+Nglob = 1, nbd = 1, k = 1603, numb overlaps 9,
+             vertex_code  [0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1, 1]
+Nglob = 2, nbd = 2, k = 1690, numb overlaps 8,
+             vertex_code  [0, 0, 1, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Nglob = 3, nbd = 3, k = 11527, numb overlaps 8,
+             vertex_code  [0, 0, 1, 1, 0, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1, 1]
+Nglob = 4, nbd = 4, k = 12602, numb overlaps 10,
+             vertex_code  [0, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0]
+Nglob = 5, nbd = 5, k = 12603, numb overlaps 8,
+             vertex_code  [0, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1, 1, 0]
+Nglob = 6, nbd = 6, k = 12604, numb overlaps 8,
+             vertex_code  [0, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1, 1, 1]
+Nglob = 7, nbd = 7, k = 12975, numb overlaps 8,
+             vertex_code  [0, 1, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 1]
+Nglob = 8, nbd = 8, k = 16812, numb overlaps 8,
+             vertex_code  [0, 1, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0]
+Nglob = 9, nbd = 9, k = 16878, numb overlaps 8,
+             vertex_code  [0, 1, 0, 0, 1, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 1, 0, 0, 1, 0]
+Nglob = 10, nbd = 10, k = 25107, numb overlaps 8,
+             vertex_code  [0, 1, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1]
+Nglob = 11, nbd = 11, k = 42657, numb overlaps 8,
+             vertex_code  [0, 1, 0, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1, 1, 0, 0]
+Nglob = 12, nbd = 12, k = 42658, numb overlaps 9,
+             vertex_code  [0, 1, 0, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1, 1, 0, 1]
+Nglob = 13, nbd = 13, k = 54703, numb overlaps 8,
+             vertex_code  [0, 1, 1, 0, 1, 1, 1, 0, 1, 1, 0, 1, 1, 1, 0, 1, 1, 0, 1, 1]
+Nglob = 14, nbd = 14, k = 54797, numb overlaps 9,
+             vertex_code  [0, 1, 1, 0, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1, 1, 0]
+Nglob = 15, nbd = 15, k = 60119, numb overlaps 8,
+             vertex_code  [0, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1, 1, 0, 1, 0, 0]
+Nglob = 16, nbd = 16, k = 60120, numb overlaps 10,
+             vertex_code  [0, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1, 1]
+ number of graphs with the vertex overlaps - 16
