@@ -1,0 +1,14 @@
+/Manifest*.toml
+*.jl.cov
+*.jl.*.cov
+*.jl.mem
+*.jl.orig
+*.jl.swp
+*.jl.swo
+*.jl.un~
+*.jl.tmp
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
