@@ -1,0 +1,33 @@
+Nglob = 1, nbd = 1, k = 148, numb overlaps 5,
+             vertex_code  [0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1, 1]
+Nglob = 2, nbd = 2, k = 156, numb overlaps 4,
+             vertex_code  [0, 0, 1, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 1, 0, 0]
+Nglob = 3, nbd = 3, k = 236, numb overlaps 4,
+             vertex_code  [0, 0, 1, 0, 0, 1, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+Nglob = 4, nbd = 4, k = 1001, numb overlaps 4,
+             vertex_code  [0, 0, 1, 1, 0, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1, 1]
+Nglob = 5, nbd = 5, k = 1098, numb overlaps 6,
+             vertex_code  [0, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0]
+Nglob = 6, nbd = 6, k = 1099, numb overlaps 4,
+             vertex_code  [0, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1, 1, 0]
+Nglob = 7, nbd = 7, k = 1100, numb overlaps 4,
+             vertex_code  [0, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1, 1, 1]
+Nglob = 8, nbd = 8, k = 1131, numb overlaps 4,
+             vertex_code  [0, 1, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 1, 0, 0, 1]
+Nglob = 9, nbd = 9, k = 1468, numb overlaps 4,
+             vertex_code  [0, 1, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0]
+Nglob = 10, nbd = 10, k = 1474, numb overlaps 4,
+             vertex_code  [0, 1, 0, 0, 1, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 1]
+Nglob = 11, nbd = 11, k = 2169, numb overlaps 4,
+             vertex_code  [0, 1, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1]
+Nglob = 12, nbd = 12, k = 3636, numb overlaps 4,
+             vertex_code  [0, 1, 0, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1, 1, 0, 0]
+Nglob = 13, nbd = 13, k = 3637, numb overlaps 5,
+             vertex_code  [0, 1, 0, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1, 1, 0, 1]
+Nglob = 14, nbd = 14, k = 4691, numb overlaps 5,
+             vertex_code  [0, 1, 1, 0, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1, 1, 0]
+Nglob = 15, nbd = 15, k = 5159, numb overlaps 4,
+             vertex_code  [0, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1, 1, 0, 1, 0, 0]
+Nglob = 16, nbd = 16, k = 5160, numb overlaps 6,
+             vertex_code  [0, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1, 1]
+ number of graphs with the vertex overlaps - 16
