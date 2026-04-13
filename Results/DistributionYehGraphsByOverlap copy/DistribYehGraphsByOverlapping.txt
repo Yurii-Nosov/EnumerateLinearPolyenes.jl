@@ -1,0 +1,51 @@
+List of Yeh’s molecular graph distributions 
+by the number of vertex overlay pairs       
+------------------------------------------
+*****  n = 12  *********
+ Order of molecular graphs:  12
+Total: 118, No overlaps: 118, With overlaps: 0
+Zero-overlap %: 100.0, Overlap %: 0.0
+Distribution by overlap pairs: 
+[118, 0, 0, 0, 0]
+*****  n = 14  *********
+ Order of molecular graphs:  14
+Total: 427, No overlaps: 422, With overlaps: 5
+Zero-overlap %: 98.82903981264637, Overlap %: 1.1709601873536302
+Distribution by overlap pairs: 
+[422, 3, 2, 0, 0, 0, 0]
+*****  n = 16  *********
+ Order of molecular graphs:  16
+Total: 1495, No overlaps: 1456, With overlaps: 39
+Zero-overlap %: 97.3913043478261, Overlap %: 2.608695652173913
+Distribution by overlap pairs: 
+[1456, 17, 17, 3, 2, 0, 0, 0, 0]
+*****  n = 18  *********
+ Order of molecular graphs:  18
+Total: 5160, No overlaps: 4938, With overlaps: 222
+Zero-overlap %: 95.69767441860465, Overlap %: 4.302325581395349
+Distribution by overlap pairs:
+[4938, 76, 95, 35, 11, 3, 2, 0, 0, 0, 0]
+*****  n = 20  *********
+ Order of molecular graphs:  20
+Total: 17653, No overlaps: 16546, With overlaps: 1107
+Zero-overlap %: 93.72911119922959, Overlap %: 6.270888800770408
+Distribution by overlap pairs:
+[16546, 304, 487, 192, 79, 29, 11, 3, 2, 0, 0, 0, 0]
+*****  n = 22  *********
+ Order of molecular graphs:  22
+Total: 60120, No overlaps: 55061, With overlaps: 5059
+Zero-overlap %: 91.5851630073187, Overlap %: 8.414836992681304
+Distribution by overlap pairs:
+[55061, 1155, 2184, 965, 461, 185, 64, 29, 11, 3, 2, 0, 0, 0, 0, 0, 0]
+*****  n = 24  *********
+ Order of molecular graphs:  24
+Total: 204178, No overlaps: 182280, With overlaps: 21898
+Zero-overlap %: 89.27504432407018, Overlap %: 10.724955675929825
+Distribution by overlap pairs:
+[182280, 4238, 9267, 4323, 2353, 1046, 404, 147, 71, 33, 11, 3, 2, 0, 0, 0, 0, 0, 0, 0, 0]
+*****  n = 26  *********
+ Order of molecular graphs:  26
+Total: 692349, No overlaps: 601323, With overlaps: 91026
+Zero-overlap %: 86.8525844624604, Overlap %: 13.147415537539594
+Distribution by overlap pairs:
+[601323, 15155, 37554, 18220, 10892, 5447, 2130, 910, 414, 179, 72, 35, 13, 0, 3, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0]   
